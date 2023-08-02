@@ -1,0 +1,45 @@
+Category = Kursus Pengkhususan, Name = Perawatan Renal/ Nefrologi, Total = 2157, Maximum = 381, Minimum = 331
+Category = Kursus Pengkhususan, Name = Kejururawatan Kesihatan Awam, Total = 1634, Maximum = 326, Minimum = 206
+Category = Kursus Pengkhususan, Name = Perawatan Pediatrik, Total = 1440, Maximum = 283, Minimum = 182
+Category = Kursus Pengkhususan, Name = Perawatan Ortopedik, Total = 1393, Maximum = 249, Minimum = 200
+Category = Kursus Pengkhususan, Name = Perawatan Neonat, Total = 1115, Maximum = 237, Minimum = 140
+Category = Kursus Pengkhususan, Name = Pengurusan Diabetis, Total = 1034, Maximum = 233, Minimum = 142
+Category = Kursus Pengkhususan, Name = Kawalan Infeksi, Total = 987, Maximum = 176, Minimum = 143
+Category = Kursus Pengkhususan, Name = Perawatan Oftalmik, Total = 370, Maximum = 80, Minimum = 47
+Category = Kursus Pengkhususan, Name = Penjagaan Kesihatan Primer, Total = 427, Maximum = 109, Minimum = 52
+Category = Kursus Pengkhususan, Name = Perawatan Perianestesia, Total = 773, Maximum = 154, Minimum = 104
+Category = Kursus Pengkhususan, Name = Pengurusan Makmal, Total = 0, Maximum = 0, Minimum = 0
+Category = Kursus Pengkhususan, Name = Perawatan Neurosains, Total = 284, Maximum = 63, Minimum = 32
+Category = Kursus Pengkhususan, Name = Perawatan Otorinolaringologi, Total = 262, Maximum = 54, Minimum = 30
+Category = Kursus Pengkhususan, Name = Perubatan Sukan, Total = 147, Maximum = 50, Minimum = 0
+Category = Kursus Pengkhususan, Name = Gastrointestinal Endoscopy, Total = 446, Maximum = 99, Minimum = 51
+Category = Kursus Pengkhususan, Name = Penyiasatan & Pendakwaan Undang-Undang, Total = 80, Maximum = 19, Minimum = 10
+Category = Kursus Pengkhususan, Name = Perawatan Rehabilitasi, Total = 265, Maximum = 52, Minimum = 30
+Category = Kursus Pengkhususan, Name = Rawatan Ortodontik, Total = 77, Maximum = 26, Minimum = 0
+Category = Kursus Pengkhususan, Name = Kesihatan Persekitaran, Total = 0, Maximum = 0, Minimum = 0
+Category = Kursus Pengkhususan, Name = Anaesthesia, Total = 57, Maximum = 18, Minimum = 0
+Category = Kursus Pengkhususan, Name = Rawatan Peridontik, Total = 22, Maximum = 22, Minimum = 0
+Category = Kursus Pengkhususan, Name = Kaunseling HIV/AIDS, Total = 322, Maximum = 98, Minimum = 14
+Category = Kursus Pengkhususan, Name = Pembedahan Mulut (Maksilofasial), Total = 0, Maximum = 0, Minimum = 0
+Category = Kursus Pengkhususan, Name = Kesihatan & Keselamatan Pekerja, Total = 0, Maximum = 0, Minimum = 0
+Category = Kursus Pengkhususan, Name = Mikrobiologi Perubatan, Total = 20, Maximum = 20, Minimum = 0
+Category = Kursus Pengkhususan, Name = Penjagaan Pergigian Pediatrik, Total = 25, Maximum = 25, Minimum = 0
+Category = Kursus Pengkhususan, Name = Hemeostasis, Total = 0, Maximum = 0, Minimum = 0
+Category = Kursus Pengkhususan, Name = Sediaan Farmaseutikal Steril, Total = 81, Maximum = 19, Minimum = 0
+Category = Kursus Pengkhususan, Name = Patologi Kimia, Total = 0, Maximum = 0, Minimum = 0
+Category = Kursus Pengkhususan, Name = Neurofisiologi Klinikal, Total = 10, Maximum = 10, Minimum = 0
+Category = Kursus Pengkhususan, Name = Tomografi Berkomputer, Total = 79, Maximum = 48, Minimum = 0
+Category = Kursus Pengkhususan, Name = Forensik, Total = 72, Maximum = 18, Minimum = 0
+Category = Kursus Pengkhususan, Name = Parasitologi, Total = 0, Maximum = 0, Minimum = 0
+Category = Kursus Pengkhususan, Name = Muskulo - Skeletal, Total = 0, Maximum = 0, Minimum = 0
+Category = Kursus Pengkhususan, Name = Keselamatan & Kebersihan Makanan, Total = 0, Maximum = 0, Minimum = 0
+Category = Kursus Pengkhususan, Name = Prostesis Maksilofasial, Total = 16, Maximum = 16, Minimum = 0
+Category = Kursus Pengkhususan, Name = Perancangan Terapi Pancaran, Total = 0, Maximum = 0, Minimum = 0
+Category = Kursus Pengkhususan, Name = Bioteknologi, Total = 0, Maximum = 0, Minimum = 0
+Category = Kursus Pengkhususan, Name = Cytogenetics, Total = 0, Maximum = 0, Minimum = 0
+Category = Kursus Pengkhususan, Name = Epidemiologi dan Kawalan Penyakit, Total = 18, Maximum = 18, Minimum = 0
+Category = Kursus Pengkhususan, Name = Kardiopulmonari Fisioterapi, Total = 0, Maximum = 0, Minimum = 0
+Category = Kursus Pengkhususan, Name = Neurologi Fisioterapi, Total = 0, Maximum = 0, Minimum = 0
+Category = Kursus Pengkhususan, Name = Penjagaan Dermatologi, Total = 59, Maximum = 36, Minimum = 0
+Category = Kursus Pengkhususan, Name = Penjagaan Luka, Total = 30, Maximum = 30, Minimum = 0
+Category = Kursus Pengkhususan, Name = Penjagaan Reumatologi, Total = 14, Maximum = 14, Minimum = 0
